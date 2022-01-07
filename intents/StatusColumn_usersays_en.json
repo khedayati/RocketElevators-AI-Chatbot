@@ -1,0 +1,25 @@
+[
+  {
+    "id": "f8651352-5899-41f3-9ff6-e85ff9262df3",
+    "data": [
+      {
+        "text": "Column ",
+        "userDefined": false
+      },
+      {
+        "text": "XXX",
+        "meta": "@sys.any",
+        "alias": "column_id",
+        "userDefined": true
+      },
+      {
+        "text": " status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

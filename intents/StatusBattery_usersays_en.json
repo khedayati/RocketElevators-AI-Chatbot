@@ -1,0 +1,25 @@
+[
+  {
+    "id": "79cdbcd8-30a4-44e8-8beb-35ccb4fa2495",
+    "data": [
+      {
+        "text": "Battery ",
+        "userDefined": false
+      },
+      {
+        "text": "XXX",
+        "meta": "@sys.any",
+        "alias": "battery_id",
+        "userDefined": true
+      },
+      {
+        "text": " status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

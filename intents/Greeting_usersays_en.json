@@ -1,0 +1,28 @@
+[
+  {
+    "id": "6559fcdf-9568-4064-bfba-aa161b2d50ee",
+    "data": [
+      {
+        "text": "Briefing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cac0bd7b-797e-4cae-9cfe-1bdf0fb8f8e2",
+    "data": [
+      {
+        "text": "Greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

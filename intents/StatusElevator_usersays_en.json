@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ff15b2e3-a893-43fa-a486-168acbe76416",
+    "data": [
+      {
+        "text": "Elevator ",
+        "userDefined": false
+      },
+      {
+        "text": "XXX",
+        "meta": "@sys.any",
+        "alias": "elevator_id",
+        "userDefined": true
+      },
+      {
+        "text": " status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ff8fd9f-f219-411b-8df5-c4e004031b63",
+    "data": [
+      {
+        "text": "What is the status of Elevator ",
+        "userDefined": false
+      },
+      {
+        "text": "XXX",
+        "meta": "@sys.any",
+        "alias": "elevator_id",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
